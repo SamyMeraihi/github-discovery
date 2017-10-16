@@ -1,4 +1,4 @@
 test de
 contribution sur GitHub.
 
-GitHub est une plateforme de développement adapté pour le travail à plusieurs.
+GitHub est une plateforme de développement adapté pour le travail à plusieurs
