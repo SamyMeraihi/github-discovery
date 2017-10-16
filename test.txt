@@ -1,2 +1,4 @@
 test de
-contribution sur GtHb
+contribution sur GitHub.
+
+GitHub est une plateforme de développement adapté pour le travail à plusieurs.
